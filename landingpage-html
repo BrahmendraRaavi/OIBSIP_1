@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="cofee.css">
+    <title>STARBUCKS Landing Page</title>
+</head>
+<body>
+     <div class="container">
+         <div class="navbar">
+            <img src="images\sblogo.jfif" class="logo">
+             <nav>
+                <ul>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Menu</a></li>
+                    <li><a href="">Store locator</a></li>
+                    <li><a href="">Contact Us</a></li>
+                </ul>
+             </nav>
+             <a href=""><i class="fa cart fa-cart-plus"></i></a>
+         </div>
+         <div class="content">
+             <h1>Starbucks coffee,tea&bakery<span class="style"></span></h1>
+             <p><br> <h3>Enjoy your coffee with the starbucks and get into world of coffee. </h3>
+            </p> 
+            <div class="text">
+                <button class="btn">Order now</button>
+                <div class="social-media">
+                    <a href=""><i class="fa icons fa-facebook"></i></a>
+                    <a href=""><i class="fa icons fa-instagram"></i></a>
+                    <a href=""><i class="fa icons fa-twitter"></i></a>
+                </div>
+            </div>       
+        </div>
+        
+     </div>
+</body>
+</html>
